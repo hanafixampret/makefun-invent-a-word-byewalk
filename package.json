@@ -1,0 +1,1 @@
+{"description":"Byewalk — a coined word for the moment after a goodbye when you realize you're walking the same way.","name":"makefun-invent-a-word-byewalk","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
